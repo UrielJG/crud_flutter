@@ -35120,7 +35120,7 @@ t2(){var s=0,r=A.a6(t.j),q,p=this,o,n,m,l
 var $async$t2=A.a0(function(a,b){if(a===1)return A.a3(b,r)
 while(true)switch(s){case 0:n=t.N
 s=3
-return A.ad(A.auh(A.p8("https://enlace-php.azurewebsites.net/login.php"),A.aE(["usuario",p.d.a.a,"contrasena",p.e.a.a],n,n)),$async$t2)
+return A.ad(A.auh(A.p8("https://ackerman1900.japh.xyz/uriel/login.php"),A.aE(["usuario",p.d.a.a,"contrasena",p.e.a.a],n,n)),$async$t2)
 case 3:m=b
 l=B.ao.cP(0,A.atw(A.arz(m.e).c.a.h(0,"charset")).cP(0,m.x))
 if(J.f(J.bW(l),0))p.aE(new A.a34(p))
